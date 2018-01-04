@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/default_profile_pic"
+            android:title="Login" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/mycity_logo"
+            android:title="About" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/contact"
+            android:title="Contact" />
+    </group>
+
+    <item android:title="Works">
+        <menu>
+            <item
+                android:id="@+id/nav_dashboard"
+                android:title="Dashboard" />
+            <item
+                android:id="@+id/nav_capital"
+                android:title="Capital" />
+            <item
+                android:id="@+id/nav_Maintenance"
+                android:title="Maintenance" />
+            <item
+                android:id="@+id/nav_Emergency"
+                android:title="Emergency" />
+            <item
+                android:id="@+id/nav_Recent"
+                android:title="Recent" />
+            <item
+                android:id="@+id/nav_all_works"
+                android:title="All Works" />
+        </menu>
+    </item>
+
+</menu>

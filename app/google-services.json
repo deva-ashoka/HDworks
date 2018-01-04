@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "736581567706",
+    "project_id": "hd-works"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736581567706:android:89c70f89692a40b1",
+        "android_client_info": {
+          "package_name": "org.hdworks.hdworks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736581567706-lfsqjukttbb004kj032b82p83lolgeo5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.hdworks.hdworks",
+            "certificate_hash": "fa61217c7f68444a4773500c7165f6998c283e5f"
+          }
+        },
+        {
+          "client_id": "736581567706-11b0q9ggcfk4plk8llrgq5tth3e9am13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDtv5Ipuju-gH8mpZ_4pKYfEbgPj52770"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
