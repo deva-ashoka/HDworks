@@ -21,7 +21,16 @@
         <activity android:name=".About" />
         <activity android:name=".Contact" />
         <activity android:name=".Login" />
-        <activity android:name=".Check"></activity>
+        <activity android:name=".Check" />
+        <activity
+            android:name=".MapsMarkerActivity"
+            android:label="@string/title_activity_maps">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>
